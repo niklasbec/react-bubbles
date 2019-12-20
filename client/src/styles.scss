@@ -97,3 +97,26 @@ form {
     margin-top: 16px;
   }
 }
+
+.logout {
+  height: 21px;
+  margin-left: 10px;
+}
+
+.buttons {
+  display: flex;
+  
+  margin-left: 10vw;
+  margin-right: 10vw;
+  margin-top: 45vh;
+}
+
+.form {
+  position: relative;
+  bottom: 45vw;
+}
+
+.form form {
+  position: relative;
+  left: 5vw;
+}
